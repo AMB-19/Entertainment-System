@@ -4,7 +4,7 @@
 
 Entertainment Sytem allows a user, i.e. *admin* or *user*, to either *Enter*, *Search*, or *Delete* a record of a *Music*, *Movie* or *Series*.
 
-*The code is written using fundamental programming concepts*
+*This code is written using a knowledge of fundamental programming concepts*
 
 ## Admin
 The admin has full access over the system and can Enter a record, Delete a record, Search for a specific record, or See all records.
