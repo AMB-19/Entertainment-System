@@ -1,3 +1,4 @@
+
 # Entertainment System
 
 **Entertainment System is a command line interface project developed using C++ and uses Arrays to store data.**
@@ -41,4 +42,3 @@ The information one can store for a Movie/Series record is:
  - Leading Cast Member
  - Leading Crew Member
  - Availability of Subtitles *(yes/no)*
-
