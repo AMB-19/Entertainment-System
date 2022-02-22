@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <stdlib.h>
 #include <windows.h>
@@ -1061,4 +1062,3 @@ void ShowRecord(int count)
 	cout << "\n          Rating           : " << Rating[count] << "/10.00";
 	cout << "\n####################################################\n";
 }
-
