@@ -15,7 +15,7 @@ The admin has full access over the system and can Enter a record, Delete a recor
 ## User
 The user can only Search for a specific record.
 
-	Username: admin
+	Username: user
 	Password: mcs123
 
 ## Music
