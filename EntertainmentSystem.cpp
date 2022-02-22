@@ -19,6 +19,8 @@ void SearchSeries();
 void ShowRecord(int);
 
 const int size = 64;
+bool valid;
+
 string Title[size] = {"Bridgerton", "House", "Parasite", "Inception", "Tightrope", "Rare"};
 string Type[size] = {"Series", "Series", "Movie", "Movie", "Music", "Music"};
 string Genre[size] = {"Drama", "Mystery", "Drama", "Action", "Pop", "Pop"};
@@ -31,8 +33,6 @@ string LeadingCast[size] = {"Dyenvor", "Laurie", "So-Dam", "Dicaprio", " ", " "}
 string LeadingCrew[size] = {"Coughlan", "Edelstein", "Yeo-Jeong", "Murphy", " ", " "};
 string Availability[size] = {"yes", "yes", "yes", "no", "yes", "no"};
 string Rating[size] = {"8.3", "7.5", "7.9", "6.7", "9.8", "8.0"};
-
-bool valid;
 
 int main()
 {
